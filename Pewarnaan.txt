@@ -1,0 +1,2 @@
+primary color: #B7B1F2
+secondary color: #A9B5DF
